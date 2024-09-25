@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"nome": "Mouse",
+		"preco": 100.99,
+		"qtd": 3
+	},
+	{
+		"id": 2,
+		"nome": "Monitor",
+		"preco": 760.99,
+		"qtd": 1
+	},
+	{
+		"id": 3,
+		"nome": "Headset",
+		"preco": 250.99,
+		"qtd": 2
+	},
+	{
+		"id": 4,
+		"nome": "Teclado",
+		"preco": 150.99,
+		"qtd": 1
+	},
+	{
+		"id": 5,
+		"nome": "Cabo LAN",
+		"preco": 10.99,
+		"qtd": 5
+	}
+]
